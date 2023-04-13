@@ -1,0 +1,18 @@
+body{
+    background-color:aqua;
+}
+hr{
+ border-style: none;
+ border-top-style: dotted;
+ width: 5%;
+ border-width: 5px;
+ height: 0px;
+ border-color: grey;
+
+}
+h1{
+    color:#66BFBF;
+}
+h2{
+    color: deeppink;
+}
